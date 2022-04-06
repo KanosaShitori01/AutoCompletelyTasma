@@ -1,5 +1,0 @@
-##################################################
-					Lưu Ý
-##################################################
-
-Để sử dụng thử form mẫu được cung cấp sẵn, bạn phải chạy file SQL tên AUCDATA_QUERY trong SQL Server trước rồi mới vào test nha. Không là lỗi sml đó :33
