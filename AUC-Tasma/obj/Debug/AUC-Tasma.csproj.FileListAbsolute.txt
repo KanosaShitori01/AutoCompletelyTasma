@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\AutoCompletelyTasma\AUC-Tasma\bin\Debug\AUC-Tasma.dll
+C:\Users\Admin\source\repos\AutoCompletelyTasma\AUC-Tasma\bin\Debug\AUC-Tasma.pdb
+C:\Users\Admin\source\repos\AutoCompletelyTasma\AUC-Tasma\obj\Debug\AUC-Tasma.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AutoCompletelyTasma\AUC-Tasma\obj\Debug\AUC-Tasma.dll
+C:\Users\Admin\source\repos\AutoCompletelyTasma\AUC-Tasma\obj\Debug\AUC-Tasma.pdb
+C:\Users\Admin\source\repos\AutoCompletelyTasma\AUC-Tasma\obj\Debug\AUC-Tasma.csproj.AssemblyReference.cache
